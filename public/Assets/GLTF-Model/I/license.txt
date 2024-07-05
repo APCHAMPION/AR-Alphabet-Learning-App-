@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chook
+* source:	https://sketchfab.com/3d-models/chook-f83d2745afee42eeb2b385191d99391b
+* author:	A J (https://sketchfab.com/javasparrow)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chook" (https://sketchfab.com/3d-models/chook-f83d2745afee42eeb2b385191d99391b) by A J (https://sketchfab.com/javasparrow) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

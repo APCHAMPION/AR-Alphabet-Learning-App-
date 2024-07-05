@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kawaii Orange
+* source:	https://sketchfab.com/3d-models/kawaii-orange-cb124d756b694b4fb1457dd17043a529
+* author:	SoyTancha (https://sketchfab.com/tSoyTancha)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kawaii Orange" (https://sketchfab.com/3d-models/kawaii-orange-cb124d756b694b4fb1457dd17043a529) by SoyTancha (https://sketchfab.com/tSoyTancha) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

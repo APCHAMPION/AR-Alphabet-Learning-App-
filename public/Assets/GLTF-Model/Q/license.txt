@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scar - Kingdom Hearts
+* source:	https://sketchfab.com/3d-models/scar-kingdom-hearts-051a2a7ea842426f825e128fef3bf92b
+* author:	featbear (https://sketchfab.com/featbear456978)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scar - Kingdom Hearts" (https://sketchfab.com/3d-models/scar-kingdom-hearts-051a2a7ea842426f825e128fef3bf92b) by featbear (https://sketchfab.com/featbear456978) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

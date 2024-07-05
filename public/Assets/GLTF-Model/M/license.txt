@@ -1,0 +1,11 @@
+Model Information:
+* title:	Monkey
+* source:	https://sketchfab.com/3d-models/monkey-2c3a8f2cf7f94f8aac2e1785679233c6
+* author:	charles.tizon250 (https://sketchfab.com/charles.tizon250)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Monkey" (https://sketchfab.com/3d-models/monkey-2c3a8f2cf7f94f8aac2e1785679233c6) by charles.tizon250 (https://sketchfab.com/charles.tizon250) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

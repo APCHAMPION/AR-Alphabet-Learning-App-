@@ -1,0 +1,9 @@
+node_modules
+rootCA.key
+rootCA.pem
+rootCA.srl
+server.crt
+server.csr
+server.csr.cnf
+server.key
+v3.ext
